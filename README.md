@@ -1,43 +1,33 @@
-# Hai, Nama Saya [YourName]  
-🎧
+# Hai, Nama Saya [Nama Anda] 👋
 
-Selamat datang di profil GitHub saya!  
-Saya seorang kreator visual yang suka eksplorasi desain dan editing.  
-Fokus gue lebih ke desain mobile pake tools ringan tapi maksimal hasilnya.  
-Kalau lo tertarik, feel free buat cek karya atau kolaborasi bareng.
-
----
+Selamat datang di profil GitHub saya! 🌟  
+Saya seorang developer yang sedang menjelajahi dunia pemrograman dan teknologi. Jika Anda tertarik dengan proyek saya, feel free untuk mengeksplorasi!
 
 ## 📊 Statistik GitHub Saya
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_title=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_anda]&show_icons=true&theme=radical)](https://github.com/[username_anda])
 
----
+- **Total Stars Earned**: [X]
+- **Total Commits (2025)**: [Y]
+- **Total PRs**: [Z]
+- **Total Issues**: [A]
+- **Contributed to (last year)**: [B]
 
-## 🛠️ Tools yang Saya Gunakan
+## 🛠 Teknologi yang Saya Gunakan
 
-- **Pixellab** (Skill: 68%)
-- **Canva** (Skill: 79%)
-- **Lightroom** (Skill: 55%)
-- **CapCut** (Skill: 70%)
+- JavaScript (Node.js, Express.js)
+- HTML, CSS, React
+- MongoDB
 
----
+## 🤓 Fun Facts
 
-## 🎯 Fun Facts
-
-- Suka desain dengan style minimalis & dark aesthetic.
-- Jarang ngomong, tapi suka ngasih sentuhan detail mematikan.
-- Punya slogan: *Silent but ruthless.*
-
----
+- Saya menyukai [hobi atau minat lain]!
+- Selalu mencoba teknologi baru setiap bulan.
 
 ## 🌐 Temui Saya di
 
-- [Instagram](https://instagram.com/yourhandle)
-- [Behance](https://behance.net/yourprofile)
-- [Website Pribadi](https://yourwebsite.com)
+- [Website Pribadi](#)
+- [Twitter](#)
+- [LinkedIn](#)
 
----
-
-Terima kasih udah mampir.  
-Jangan ragu buat reach out kalau mau kerja bareng atau sekadar say hi.
+Terima kasih telah berkunjung, jangan ragu untuk menghubungi saya jika tertarik berkolaborasi!

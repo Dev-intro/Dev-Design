@@ -14,9 +14,7 @@
 
 ## 📊 GitHub Stats 📊
 
-![DzyDesign's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzyDesign&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzyDesign&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=DzyDesign&theme=tokyonight)
+![Design Stats](https://your-link/design-stats.gif)
 
 ## 🚀 Total Contributions
 - **Started**: Dec 8, 2024
